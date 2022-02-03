@@ -8,7 +8,7 @@ import Skills from '../components/Skills';
 import Contato from '../components/Contato';
 import Footer from '../components/Footer';
 
-import { Container } from './styles';
+import { Container } from '../styles/styles';
 
 export default function Home() {
   const title = '<gabrielgws/>'
