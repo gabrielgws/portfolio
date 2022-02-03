@@ -8,7 +8,7 @@ export default function About() {
     <Container id="about">
       <h1>Sobre mim</h1>
 
-      <span><Image width={250} height={250} src="/images/gabrielgws.jpg" /></span>
+      <span><Image width={200} height={200} src="/images/gabrielgws.jpg" /></span>
 
       <p>Olá, me chamo Gabriel Willian, trabalho na área de ti desde 2014, sempre busquei algo no meu trabalho, que fosse além de trabalho e sim fazer o que gostava, foi então que conheci a programação(ReactJS), fiquei encantado pelos poderes que ela pode proporcionar.</p>
   
