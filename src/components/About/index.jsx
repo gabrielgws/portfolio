@@ -10,11 +10,11 @@ export default function About() {
 
       <span><Image width={200} height={200} src="/images/gabrielgws.jpg" /></span>
 
-      <p>Olá, me chamo Gabriel Willian, trabalho na área de ti desde 2014, sempre busquei algo no meu trabalho, que fosse além de trabalho e sim fazer o que gostava, foi então que conheci a programação(ReactJS), fiquei encantado pelos poderes que ela pode proporcionar.</p>
+      <p>Olá, sou Gabriel Willian e trabalho na área de TI desde 2014. Durante minha experiência profissional, sempre busquei por algo que me proporcionasse satisfação. Foi então que conheci e me encantei pela programação (ReactJS). </p>
   
-      <p>Foi então que, resolvi explorar a área de desenvolvimento web e me apaixonei pelo Front-end, que atualmente é meu maior foco de estudos, mas sempre aberto para novos conhecimentos e aprendizados. Meu maior objeto como desenvolvedor, é ajudar meu time a entregar uma experiência incrível, para o cliente e usuário da nossa aplicação.</p>
+      <p>Tenho explorado a área de desenvolvimento web e focado no Front-end. Mas sempre ligado e aberto para novos conhecimentos e aprendizados. Meu maior objeto como desenvolvedor, é ajudar meu time a entregar uma experiência incrível, para o cliente e usuário da nossa aplicação. </p>
 
-      <p>Hoje eu posso dizer, eu trabalho com o que eu amo!</p>
+      <p>Hoje eu posso dizer com tranquilidade que trabalho com o que eu amo!</p>
     </Container>
   )
 }
