@@ -27,20 +27,12 @@ export const Container = styled.section`
     border: 1px solid var(--blue);
     border-width: 0.35rem;
     border-radius: 50%;
-    padding: 0.438rem;
 
     transform: scale(0.9);
     transition: all ease 0.9s;
 
     &:hover {
       transform: scale(1);
-    }
-
-
-    img {
-      border-radius: 50%;
-      width: 15rem;
-      height: 15rem;
     }
   }
   

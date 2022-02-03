@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import Image from 'next/image';
+import React from 'react';
 
 import { Container, ProjectContainer } from './styles';
 
@@ -12,7 +13,7 @@ export default function Projects() {
 
       <ProjectContainer>
         <div>
-          <img src="/images/tripFood.png" alt="Trip Food" />
+          <Image src="/images/tripFood.png" alt="Trip Food" width="200px" height="200px"/>
 
           <h1>Trip Food Web Site</h1>
           <h2 className={classNameProfessional}>Profissional</h2>
@@ -23,7 +24,7 @@ export default function Projects() {
         </div>
 
         <div>
-          <img src="/images/netflix.png" alt="Trip Food"/>
+          <Image src="/images/netflix.png" alt="Netflix clone" width="200px" height="200px"/>
 
           <h1>Netflix Clone</h1>
           <h2 className={classNameGitHub}>Projeto - Estudo</h2>
