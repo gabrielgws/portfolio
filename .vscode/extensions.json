@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "jpoissonnier.vscode-styled-components",
+    "steoates.autoimport",
+    "naumovs.color-highlight",
+    "clinyong.vscode-css-modules",
+    "esbenp.prettier-vscode"
+  ]
+}
