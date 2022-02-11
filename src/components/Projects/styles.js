@@ -83,7 +83,7 @@ export const ProjectContainer = styled.div`
       background-color: var(--black);
     }
 
-    .desenvolvimento {
+    .Building {
       margin: 0.5rem;
       padding: 0.5rem;
       font-size: 1rem;
