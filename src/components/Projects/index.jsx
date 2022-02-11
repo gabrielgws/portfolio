@@ -6,12 +6,24 @@ import { Container, ProjectContainer } from './styles';
 export default function Projects() {
   let classNameProfessional = 'professional';
   let classNameGitHub = 'github';
+  let classNameDesenvolvimento = 'desenvolvimento';
  
   return (
     <Container id="projects">
       <h1>Projetos</h1>
 
       <ProjectContainer>
+        <div>
+          <Image src="/images/danMitrioneAdv.png" alt="Dan Mitrione Advogado" width="200px" height="200px"/>
+
+          <h1>Dan Mitrione Advogado</h1>
+          <h2 className={classNameDesenvolvimento}>Desenvolvimento</h2>
+
+          <p>Desenvolvimento de uma Landing page para uma advogado. Serviço Freelancer.</p>
+
+          <a href="https://github.com/gabrielgws/danmitrione.adv" target="_blank" rel="noopener noreferrer">Visitar Site</a>
+        </div>
+
         <div>
           <Image src="/images/tripFood.png" alt="Trip Food" width="200px" height="200px"/>
 
