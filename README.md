@@ -2,7 +2,7 @@
   <img alt="Dev img" src="public/favicon.png" width="80px">
 
 <h1 align="center">
-    <img alt="Site gabrielgws.com" src="/public/images/gabrielgws-Screenshot.png" />
+    <img alt="Site gabrielgws.com" src="/public/images/gabrielgws-Screenshot2.png" />
 </h1>
 
 <br>
@@ -11,16 +11,20 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [Material-UI](https://mui.com/pt/)
+- [Next.js](https://nextjs.org/)
+- [styled-components](https://styled-components.com/)
+- [LottieFiles](https://lottiefiles.com/)
+- [React-icons](https://react-icons.github.io/react-icons/)
+- [React-scroll](https://github.com/fisshy/react-scroll)
+
 
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/gabrielgws/netflix-clone
-$ cd netflix-clone
+$ git clone https://github.com/gabrielgws/portfolio.git
+$ cd portfolio
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -29,18 +33,17 @@ Para iniciá-lo, siga os passos abaixo:
 $ yarn
 
 # Iniciar o projeto
-$ yarn start
+$ yarn dev
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Este é um projeto desenvolvido durante a live **[Bonieky Lacerda](https://www.youtube.com/watch?v=tBweoUiMsDg&t=8756s)**.
+Este é um projeto desenvolvido para mostrar as minhas habilidades e evoluções das tecnologias apresentadas.
 
 ## 🔖 Layout
 
-Direitos de imagem para Netflix <br/>
-Dados pegos do site Themoviedb.org
+Direitos gabrielgws.com
 
 ## 📝 License
 
