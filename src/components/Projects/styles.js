@@ -9,7 +9,7 @@ export const Container = styled.section`
 
   border-bottom: 2px solid var(--gray-800);
 
-  padding: 50px 2rem;
+  padding: 100px 2rem;
 
   h1 {
     font-size: 2.5rem;
