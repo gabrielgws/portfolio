@@ -16,7 +16,7 @@ export default function Projects() {
         <div>
           <Image src="/images/danMitrioneAdv.png" alt="Dan Mitrione Advogado" width="200px" height="200px"/>
 
-          <h1>Dan Mitrione Advogado</h1>
+          <h1>Mitrione & Luckezzi - Advogados</h1>
           {/* <h2 className={classNameBuilding}>Building</h2> */}
           <h2 className={classNameProfessional}>Profissional</h2>
 
