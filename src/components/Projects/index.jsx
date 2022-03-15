@@ -14,7 +14,7 @@ export default function Projects() {
 
       <ProjectContainer>
         <div>
-          <Image src="/images/danMitrioneAdv.png" alt="Dan Mitrione Advogado" width="200px" height="200px"/>
+          <Image src="/images/dan-logo.png" alt="Dan Mitrione Advogado" width="200px" height="200px"/>
 
           <h1>Mitrione & Luckezzi - Advogados</h1>
           {/* <h2 className={classNameBuilding}>Building</h2> */}

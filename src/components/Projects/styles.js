@@ -34,6 +34,7 @@ export const ProjectContainer = styled.div`
 
   div{
     width: 350px;
+    min-height: 600px;
     margin: 1rem 0;
     padding: 30px 10px;
     border: 2px solid var(--blue);
@@ -41,6 +42,7 @@ export const ProjectContainer = styled.div`
 
     display: flex;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
     background-color: var(--gray-100);
     border-radius: 25px;
