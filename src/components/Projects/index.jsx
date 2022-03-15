@@ -17,11 +17,12 @@ export default function Projects() {
           <Image src="/images/danMitrioneAdv.png" alt="Dan Mitrione Advogado" width="200px" height="200px"/>
 
           <h1>Dan Mitrione Advogado</h1>
-          <h2 className={classNameBuilding}>Building</h2>
+          {/* <h2 className={classNameBuilding}>Building</h2> */}
+          <h2 className={classNameProfessional}>Profissional</h2>
 
           <p>Desenvolvimento de uma Landing page para uma advogado. Serviço Freelancer.</p>
 
-          <a href="https://github.com/gabrielgws/danmitrione.adv" target="_blank" rel="noopener noreferrer">Visitar Site</a>
+          <a href="https://mitrioneluckezziadvogados.com.br/" target="_blank" rel="noopener noreferrer">Visitar Site</a>
         </div>
 
         <div>
