@@ -62,9 +62,13 @@ export const ProjectContainer = styled.div`
     }
 
     h1 {
-      margin-top: 1rem;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
       display: block;
       font-size: 1.5rem;
+
+      text-align: center;
+      line-height: 2rem;
     }
 
     .professional {
