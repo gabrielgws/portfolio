@@ -20,7 +20,7 @@ export default function Projects() {
           {/* <h2 className={classNameBuilding}>Building</h2> */}
           <h2 className={classNameProfessional}>Profissional</h2>
 
-          <p>Desenvolvimento de uma Landing page para uma advogado. Serviço Freelancer.</p>
+          <p>Desenvolvimento de uma Landing page para um advogado. Serviço Freelancer.</p>
 
           <a href="https://mitrioneluckezziadvogados.com.br/" target="_blank" rel="noopener noreferrer">Visitar Site</a>
         </div>
